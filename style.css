@@ -16,7 +16,6 @@ body {
   border-radius: 10px;
   display: flex;
   justify-content: space-between;
-  background-image: url("../images/clavier.jpg");
   color: #fff6d4;
   box-shadow: 3px 3px 5px 1px grey;
 }
